@@ -2,7 +2,7 @@
 
 **Autor:** Panamá Murillo Moisés Antonio
 **Actividad:** Grupo GA, Unidad IV — Investigación sobre tendencias de desarrollo web
-**Contexto de aplicación:** PFC BIOPET (`Grinjoww/PE-U4-PFC-BIOPET`)
+**Contexto de aplicación:** PFC BIOPET
 
 ---
 
@@ -42,12 +42,12 @@ Sobre IA generativa, su aplicación más razonable en BIOPET no sería dentro de
 
 ## Referencias
 
-[1] K. R. Shah y P. D. Joshi, "Comparative Performance Analysis of JAMstack and Monolithic Web Architectures," *International Journal of Computer Applications*, vol. 187, no. 71, pp. 51–61, ene. 2026, doi: 10.5120/ijca2026926162. [Acceso abierto].
+[1] K. R. Shah y P. D. Joshi, "Comparative Performance Analysis of JAMstack and Monolithic Web Architectures," *International Journal of Computer Applications*, vol. 187, no. 71, pp. 51–61, ene. 2026, doi: [10.5120/ijca2026926162](https://doi.org/10.5120/ijca2026926162). [Acceso abierto].
 
-[2] K. I. Roumeliotis y N. D. Tselikas, "Evaluating Progressive Web App Accessibility for People with Disabilities," *Network*, vol. 2, no. 2, pp. 350–369, jun. 2022, doi: 10.3390/network2020022. [Acceso abierto, CC BY 4.0].
+[2] K. I. Roumeliotis y N. D. Tselikas, "Evaluating Progressive Web App Accessibility for People with Disabilities," *Network*, vol. 2, no. 2, pp. 350–369, jun. 2022, doi: [10.3390/network2020022](https://doi.org/10.3390/network2020022). [Acceso abierto, CC BY 4.0].
 
-[3] S. Peng, E. Kalliamvakou, P. Cihon, y M. Demirer, "The Impact of AI on Developer Productivity: Evidence from GitHub Copilot," arXiv:2302.06590, 2023, doi: 10.48550/arXiv.2302.06590. [Acceso abierto].
+[3] S. Peng, E. Kalliamvakou, P. Cihon, y M. Demirer, "The Impact of AI on Developer Productivity: Evidence from GitHub Copilot," arXiv:2302.06590, 2023, doi: [10.48550/arXiv.2302.06590](https://doi.org/10.48550/arXiv.2302.06590). [Acceso abierto].
 
-[4] H. Pearce, B. Ahmad, B. Tan, B. Dolan-Gavitt, y R. Karri, "Asleep at the Keyboard? Assessing the Security of GitHub Copilot's Code Contributions," arXiv:2108.09293, 2021 (presentado en IEEE Symposium on Security and Privacy, 2022), doi: 10.48550/arXiv.2108.09293. [Acceso abierto].
+[4] H. Pearce, B. Ahmad, B. Tan, B. Dolan-Gavitt, y R. Karri, "Asleep at the Keyboard? Assessing the Security of GitHub Copilot's Code Contributions," arXiv:2108.09293, 2021 (presentado en IEEE Symposium on Security and Privacy, 2022), doi: [10.48550/arXiv.2108.09293](https://doi.org/10.48550/arXiv.2108.09293). [Acceso abierto].
 
-> Las fichas bibliográficas de evidencia de cada fuente (metadatos, DOI y resumen del contenido consultado) están adjuntas en `docs/u4/evidencias/panama/`. El PDF de la fuente correspondiente se sube por separado en esa misma carpeta.
+> El PDF original de cada fuente citada está adjunto en `docs/u4/evidencias/panama/` como evidencia.
