@@ -2,7 +2,7 @@
 
 **Autor:** Panamá Murillo Moisés Antonio
 **Rol en la actividad:** Grupo GA, Unidad IV — revisión crítica #2
-**Repositorio evaluado:** `Grinjoww/PE-U4-PFC-BIOPET` (`v0.9.0-rc`, Tercera Entrega)
+**Proyecto evaluado:** PFC BIOPET (`v0.9.0-rc`, Tercera Entrega)
 **Alcance de esta revisión:** usabilidad, organización, mantenibilidad, escalabilidad, seguridad, experiencia de usuario, pruebas, rendimiento, documentación y despliegue.
 
 ---
